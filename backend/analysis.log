@@ -1,0 +1,33 @@
+{"level":"info","message":"[WS] Subscribed to symbols: ETHUSDT","timestamp":"2025-08-20T15:37:54.124Z"}
+{"level":"info","message":"[WS] Connection opened","timestamp":"2025-08-20T15:37:54.729Z"}
+{"level":"info","message":"[WS] Live price fetched for ETHUSDT: 4290.24","timestamp":"2025-08-20T15:37:55.629Z"}
+{"level":"info","message":"[WS] Reconnected","timestamp":"2025-08-20T15:38:06.510Z"}
+{"level":"info","message":"[WS] Subscribed to symbols: BTCUSDT","timestamp":"2025-08-20T15:38:30.278Z"}
+{"level":"info","message":"[WS] Connection opened","timestamp":"2025-08-20T15:38:32.042Z"}
+{"level":"info","message":"[WS] Live price fetched for BTCUSDT: 114114.50","timestamp":"2025-08-20T15:38:36.343Z"}
+{"level":"info","message":"[WS] Subscribed to symbols: ETHUSDT","timestamp":"2025-08-20T15:48:51.388Z"}
+{"level":"info","message":"[WS] Connection opened","timestamp":"2025-08-20T15:48:51.771Z"}
+{"level":"info","message":"[WS] Live price fetched for ETHUSDT: 4273.51","timestamp":"2025-08-20T15:48:51.864Z"}
+{"level":"info","message":"[WS] Unsubscribed from ETHUSDT after price fetch","timestamp":"2025-08-20T15:48:51.864Z"}
+{"level":"info","message":"[WS] Reconnected","timestamp":"2025-08-20T15:50:33.824Z"}
+{"level":"info","message":"[WS] Reconnected","timestamp":"2025-08-20T15:50:45.690Z"}
+{"level":"info","message":"[WS] Subscribed to symbols: ETHUSDT","timestamp":"2025-08-20T15:53:51.214Z"}
+{"level":"info","message":"[WS] Connection opened","timestamp":"2025-08-20T15:53:51.740Z"}
+{"level":"info","message":"[WS] Live price fetched for ETHUSDT: 4255.20","timestamp":"2025-08-20T15:53:51.882Z"}
+{"level":"info","message":"[WS] Unsubscribed from symbols: ETHUSDT","timestamp":"2025-08-20T15:53:52.894Z"}
+{"level":"info","message":"[WS] Cleaned up connection for ETHUSDT after price fetch","timestamp":"2025-08-20T15:53:52.894Z"}
+{"level":"info","message":"[WS] Reconnected","timestamp":"2025-08-20T15:54:33.790Z"}
+{"level":"info","message":"[WS] Subscribed to symbols: ETHUSDT","timestamp":"2025-08-20T15:54:38.457Z"}
+{"level":"info","message":"[WS] Connection opened","timestamp":"2025-08-20T15:54:38.942Z"}
+{"level":"info","message":"[WS] Live price fetched for ETHUSDT: 4262.15","timestamp":"2025-08-20T15:54:39.083Z"}
+{"level":"info","message":"[WS] Unsubscribed from symbols: ETHUSDT","timestamp":"2025-08-20T15:54:40.096Z"}
+{"level":"info","message":"[WS] Cleaned up connection for ETHUSDT after price fetch","timestamp":"2025-08-20T15:54:40.096Z"}
+{"level":"info","message":"[WS] Subscribed to symbols: BTCUSDT","timestamp":"2025-08-20T15:56:25.275Z"}
+{"level":"info","message":"[WS] Connection opened","timestamp":"2025-08-20T15:56:25.666Z"}
+{"level":"info","message":"[WS] Live price fetched for BTCUSDT: 113380.10","timestamp":"2025-08-20T15:56:25.775Z"}
+{"level":"info","message":"[WS] Unsubscribed from symbols: BTCUSDT","timestamp":"2025-08-20T15:56:26.776Z"}
+{"level":"info","message":"[WS] Cleaned up connection for BTCUSDT after price fetch","timestamp":"2025-08-20T15:56:26.776Z"}
+{"level":"info","message":"[WS] Reconnected","timestamp":"2025-08-20T15:56:57.327Z"}
+{"level":"info","message":"[WS] Reconnected","timestamp":"2025-08-20T15:56:57.577Z"}
+{"level":"info","message":"[WS] Reconnected","timestamp":"2025-08-20T15:57:20.971Z"}
+{"level":"info","message":"[WS] Reconnected","timestamp":"2025-08-20T15:57:44.017Z"}
